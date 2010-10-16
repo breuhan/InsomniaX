@@ -1,0 +1,580 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Deployment;
+		activeTarget = FA95587B0BEA42A9006F6AE9 /* nosleep FINAL */;
+		codeSenseManager = FA9557E50BEA3AE1006F6AE9 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					716,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					536,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 199899841;
+			PBXWorkspaceStateSaveDate = 199899841;
+		};
+		perUserProjectItems = {
+			FA9558010BEA3D1A006F6AE9 /* PBXTextBookmark */ = FA9558010BEA3D1A006F6AE9 /* PBXTextBookmark */;
+			FA9558020BEA3D1A006F6AE9 /* PBXTargetBookmark */ = FA9558020BEA3D1A006F6AE9 /* PBXTargetBookmark */;
+			FA9558030BEA3D1A006F6AE9 /* PBXTextBookmark */ = FA9558030BEA3D1A006F6AE9 /* PBXTextBookmark */;
+			FA9558040BEA3D1A006F6AE9 /* PBXTargetBookmark */ = FA9558040BEA3D1A006F6AE9 /* PBXTargetBookmark */;
+			FA95580E0BEA3D7B006F6AE9 /* PBXTargetBookmark */ = FA95580E0BEA3D7B006F6AE9 /* PBXTargetBookmark */;
+			FA9558760BEA424C006F6AE9 /* PBXTextBookmark */ = FA9558760BEA424C006F6AE9 /* PBXTextBookmark */;
+			FA95587A0BEA4298006F6AE9 /* PBXTextBookmark */ = FA95587A0BEA4298006F6AE9 /* PBXTextBookmark */;
+			FA95588F0BEA430D006F6AE9 /* PBXTextBookmark */ = FA95588F0BEA430D006F6AE9 /* PBXTextBookmark */;
+			FA9558910BEA436F006F6AE9 /* PBXTextBookmark */ = FA9558910BEA436F006F6AE9 /* PBXTextBookmark */;
+			FA9558930BEA43DD006F6AE9 /* PBXTextBookmark */ = FA9558930BEA43DD006F6AE9 /* PBXTextBookmark */;
+			FA95589F0BEA4545006F6AE9 /* PBXTextBookmark */ = FA95589F0BEA4545006F6AE9 /* PBXTextBookmark */;
+			FA9558A00BEA4545006F6AE9 /* PBXTextBookmark */ = FA9558A00BEA4545006F6AE9 /* PBXTextBookmark */;
+			FA9558A10BEA4545006F6AE9 /* PBXTextBookmark */ = FA9558A10BEA4545006F6AE9 /* PBXTextBookmark */;
+			FA9558A20BEA4545006F6AE9 /* PBXTextBookmark */ = FA9558A20BEA4545006F6AE9 /* PBXTextBookmark */;
+			FA9558A30BEA4545006F6AE9 /* PBXTextBookmark */ = FA9558A30BEA4545006F6AE9 /* PBXTextBookmark */;
+			FA9558A40BEA4545006F6AE9 /* PBXTextBookmark */ = FA9558A40BEA4545006F6AE9 /* PBXTextBookmark */;
+			FA9558A50BEA4545006F6AE9 /* PBXTextBookmark */ = FA9558A50BEA4545006F6AE9 /* PBXTextBookmark */;
+			FA9558A60BEA4545006F6AE9 /* PBXTextBookmark */ = FA9558A60BEA4545006F6AE9 /* PBXTextBookmark */;
+			FA9558A90BEA45A6006F6AE9 /* PBXTextBookmark */ = FA9558A90BEA45A6006F6AE9 /* PBXTextBookmark */;
+			FA9558AA0BEA45A6006F6AE9 /* PBXTextBookmark */ = FA9558AA0BEA45A6006F6AE9 /* PBXTextBookmark */;
+			FA9558AB0BEA45A6006F6AE9 /* PBXTextBookmark */ = FA9558AB0BEA45A6006F6AE9 /* PBXTextBookmark */;
+			FA9558AC0BEA45A6006F6AE9 /* PBXTextBookmark */ = FA9558AC0BEA45A6006F6AE9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FA9557E40BEA3AE1006F6AE9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C1673FE841209C02AAC07 /* nosleep */ = {
+		activeExec = 0;
+	};
+	1A224C3EFF42367911CA2CB7 /* Insomnia.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {914, 658}}";
+			sepNavSelRange = "{968, 0}";
+			sepNavVisRect = "{{0, 216}, {914, 442}}";
+			sepNavWindowFrame = "{{42, 40}, {720, 812}}";
+		};
+	};
+	1A224C3FFF42367911CA2CB7 /* Insomnia.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {914, 2422}}";
+			sepNavSelRange = "{2405, 0}";
+			sepNavVisRect = "{{0, 1035}, {914, 442}}";
+			sepNavWindowFrame = "{{19, 61}, {720, 812}}";
+		};
+	};
+	FA9557E40BEA3AE1006F6AE9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	FA9557E50BEA3AE1006F6AE9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FA9557E90BEA3CF4006F6AE9 /* nosleep deploy */ = {
+		isa = PBXBundleTarget;
+		activeExec = 0;
+		buildConfigurationList = FA9557F40BEA3CF4006F6AE9 /* Build configuration list for PBXBundleTarget "nosleep deploy" */;
+		buildPhases = (
+			FA9557EA0BEA3CF4006F6AE9 /* ShellScript */,
+			FA9557EB0BEA3CF4006F6AE9 /* Headers */,
+			FA9557ED0BEA3CF4006F6AE9 /* Resources */,
+			FA9557EF0BEA3CF4006F6AE9 /* Sources */,
+			FA9557F10BEA3CF4006F6AE9 /* Frameworks */,
+			FA9557F20BEA3CF4006F6AE9 /* Rez */,
+			FA9557F30BEA3CF4006F6AE9 /* ShellScript */,
+		);
+		dependencies = (
+		);
+		name = "nosleep deploy";
+		productInstallPath = "$(SYSTEM_LIBRARY_DIR)/Extensions";
+		productName = nosleep;
+		productSettingsXML = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
+<!DOCTYPE plist PUBLIC \"-//Apple Computer//DTD PLIST 1.0//EN\" \"http://www.apple.com/DTDs/PropertyList-1.0.dtd\">
+<plist version=\"1.0\">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>Insomnia</string>
+	<key>CFBundleIconFile</key>
+	<string></string>
+	<key>CFBundleIdentifier</key>
+	<string>org.binaervarianz.driver.insomnia</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>KEXT</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.0d1</string>
+	<key>IOKitPersonalities</key>
+	<dict>
+		<key>Insomnia</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>org.binaervarianz.driver.insomnia</string>
+			<key>IOClass</key>
+			<string>Insomnia</string>
+			<key>IOMatchCategory</key>
+			<string>IODefaultMatchCategory</string>
+			<key>IONameMatch</key>
+			<string>IOPMrootDomain</string>
+			<key>IOProviderClass</key>
+			<string>IOService</string>
+		</dict>
+	</dict>
+	<key>OSBundleLibraries</key>
+	<dict>
+		<key>com.apple.kernel.iokit</key>
+		<string>6.0</string>
+	</dict>
+</dict>
+</plist>
+";
+	};
+	FA9557EA0BEA3CF4006F6AE9 /* ShellScript */ = {
+		isa = PBXShellScriptBuildPhase;
+		buildActionMask = 2147483647;
+		files = (
+		);
+		runOnlyForDeploymentPostprocessing = 0;
+		shellPath = /bin/sh;
+		shellScript = "script=\"${SYSTEM_DEVELOPER_DIR}/ProjectBuilder Extras/Kernel Extension Support/KEXTPreprocess\";\nif [ -x \"$script\" ]; then\n    . \"$script\"\nfi";
+	};
+	FA9557EB0BEA3CF4006F6AE9 /* Headers */ = {
+		isa = PBXHeadersBuildPhase;
+		buildActionMask = 2147483647;
+		files = (
+			FA9557EC0BEA3CF4006F6AE9 /* Insomnia.h in Headers */,
+		);
+		runOnlyForDeploymentPostprocessing = 0;
+	};
+	FA9557EC0BEA3CF4006F6AE9 /* Insomnia.h in Headers */ = {
+		isa = PBXBuildFile;
+		fileRef = 1A224C3EFF42367911CA2CB7 /* Insomnia.h */;
+	};
+	FA9557ED0BEA3CF4006F6AE9 /* Resources */ = {
+		isa = PBXResourcesBuildPhase;
+		buildActionMask = 2147483647;
+		files = (
+			FA9557EE0BEA3CF4006F6AE9 /* InfoPlist.strings in Resources */,
+		);
+		runOnlyForDeploymentPostprocessing = 0;
+	};
+	FA9557EE0BEA3CF4006F6AE9 /* InfoPlist.strings in Resources */ = {
+		isa = PBXBuildFile;
+		fileRef = 089C167DFE841241C02AAC07 /* InfoPlist.strings */;
+	};
+	FA9557EF0BEA3CF4006F6AE9 /* Sources */ = {
+		isa = PBXSourcesBuildPhase;
+		buildActionMask = 2147483647;
+		files = (
+			FA9557F00BEA3CF4006F6AE9 /* Insomnia.cpp in Sources */,
+		);
+		runOnlyForDeploymentPostprocessing = 0;
+	};
+	FA9557F00BEA3CF4006F6AE9 /* Insomnia.cpp in Sources */ = {
+		isa = PBXBuildFile;
+		fileRef = 1A224C3FFF42367911CA2CB7 /* Insomnia.cpp */;
+		settings = {
+			ATTRIBUTES = (
+			);
+		};
+	};
+	FA9557F10BEA3CF4006F6AE9 /* Frameworks */ = {
+		isa = PBXFrameworksBuildPhase;
+		buildActionMask = 2147483647;
+		files = (
+		);
+		runOnlyForDeploymentPostprocessing = 0;
+	};
+	FA9557F20BEA3CF4006F6AE9 /* Rez */ = {
+		isa = PBXRezBuildPhase;
+		buildActionMask = 2147483647;
+		files = (
+		);
+		runOnlyForDeploymentPostprocessing = 0;
+	};
+	FA9557F30BEA3CF4006F6AE9 /* ShellScript */ = {
+		isa = PBXShellScriptBuildPhase;
+		buildActionMask = 2147483647;
+		files = (
+		);
+		runOnlyForDeploymentPostprocessing = 0;
+		shellPath = /bin/sh;
+		shellScript = "script=\"${SYSTEM_DEVELOPER_DIR}/ProjectBuilder Extras/Kernel Extension Support/KEXTPostprocess\";\nif [ -x \"$script\" ]; then\n    . \"$script\"\nfi";
+	};
+	FA9557F40BEA3CF4006F6AE9 /* Build configuration list for PBXBundleTarget "nosleep deploy" */ = {
+		isa = XCConfigurationList;
+		buildConfigurations = (
+			FA9557F50BEA3CF4006F6AE9 /* Development */,
+			FA9557F60BEA3CF4006F6AE9 /* Deployment */,
+			FA9557F70BEA3CF4006F6AE9 /* Default */,
+		);
+		defaultConfigurationIsVisible = 0;
+		defaultConfigurationName = Default;
+	};
+	FA9557F50BEA3CF4006F6AE9 /* Development */ = {
+		isa = XCBuildConfiguration;
+		buildSettings = {
+			COPY_PHASE_STRIP = NO;
+			DEBUGGING_SYMBOLS = NO;
+			FRAMEWORK_SEARCH_PATHS = "";
+			GCC_DYNAMIC_NO_PIC = NO;
+			GCC_ENABLE_FIX_AND_CONTINUE = YES;
+			GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+			GCC_OPTIMIZATION_LEVEL = 0;
+			HEADER_SEARCH_PATHS = "";
+			INSTALL_PATH = "$(SYSTEM_LIBRARY_DIR)/Extensions";
+			KERNEL_MODULE = YES;
+			LIBRARY_SEARCH_PATHS = "";
+			MODULE_IOKIT = YES;
+			MODULE_NAME = org.binaervarianz.driver.insomnia;
+			MODULE_VERSION = 1.0.0d1;
+			OTHER_CFLAGS = "";
+			OTHER_LDFLAGS = "";
+			OTHER_REZFLAGS = "";
+			PRODUCT_NAME = Insomnia;
+			SECTORDER_FLAGS = "";
+			WARNING_CFLAGS = (
+				"-Wmost",
+				"-Wno-four-char-constants",
+				"-Wno-unknown-pragmas",
+			);
+			WRAPPER_EXTENSION = kext;
+			ZERO_LINK = NO;
+		};
+		name = Development;
+	};
+	FA9557F60BEA3CF4006F6AE9 /* Deployment */ = {
+		isa = XCBuildConfiguration;
+		buildSettings = {
+			COPY_PHASE_STRIP = YES;
+			FRAMEWORK_SEARCH_PATHS = "";
+			GCC_ENABLE_FIX_AND_CONTINUE = NO;
+			HEADER_SEARCH_PATHS = "";
+			INSTALL_PATH = "$(SYSTEM_LIBRARY_DIR)/Extensions";
+			KERNEL_MODULE = YES;
+			LIBRARY_SEARCH_PATHS = "";
+			MODULE_IOKIT = YES;
+			MODULE_NAME = org.binaervarianz.driver.insomnia;
+			MODULE_VERSION = 1.0.0d1;
+			OTHER_CFLAGS = "";
+			OTHER_LDFLAGS = "";
+			OTHER_REZFLAGS = "";
+			PRODUCT_NAME = Insomnia;
+			SECTORDER_FLAGS = "";
+			WARNING_CFLAGS = (
+				"-Wmost",
+				"-Wno-four-char-constants",
+				"-Wno-unknown-pragmas",
+			);
+			WRAPPER_EXTENSION = kext;
+			ZERO_LINK = NO;
+		};
+		name = Deployment;
+	};
+	FA9557F70BEA3CF4006F6AE9 /* Default */ = {
+		isa = XCBuildConfiguration;
+		buildSettings = {
+			FRAMEWORK_SEARCH_PATHS = "";
+			HEADER_SEARCH_PATHS = "";
+			INSTALL_PATH = "$(SYSTEM_LIBRARY_DIR)/Extensions";
+			KERNEL_MODULE = YES;
+			LIBRARY_SEARCH_PATHS = "";
+			MODULE_IOKIT = YES;
+			MODULE_NAME = org.binaervarianz.driver.insomnia;
+			MODULE_VERSION = 1.0.0d1;
+			OTHER_CFLAGS = "";
+			OTHER_LDFLAGS = "";
+			OTHER_REZFLAGS = "";
+			PRODUCT_NAME = Insomnia;
+			SECTORDER_FLAGS = "";
+			WARNING_CFLAGS = (
+				"-Wmost",
+				"-Wno-four-char-constants",
+				"-Wno-unknown-pragmas",
+			);
+			WRAPPER_EXTENSION = kext;
+		};
+		name = Default;
+	};
+	FA9558010BEA3D1A006F6AE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* Insomnia.cpp */;
+		name = "Insomnia.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 663;
+		vrLoc = 1180;
+	};
+	FA9558020BEA3D1A006F6AE9 /* PBXTargetBookmark */ = {
+		isa = PBXTargetBookmark;
+		trg = FA9557E90BEA3CF4006F6AE9 /* nosleep deploy */;
+	};
+	FA9558030BEA3D1A006F6AE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* Insomnia.cpp */;
+		name = "Insomnia.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 663;
+		vrLoc = 1180;
+	};
+	FA9558040BEA3D1A006F6AE9 /* PBXTargetBookmark */ = {
+		isa = PBXTargetBookmark;
+		trg = FA9557E90BEA3CF4006F6AE9 /* nosleep deploy */;
+		uiCtxt = {
+			TOCViewDetailVisibleRect = "{{0, 0}, {677, 233}}";
+			TOCViewExpandedItems = (
+				"com.apple.target-editor-pane.settings",
+				"com.apple.target-editor-pane.settings.simple",
+				"com.apple.target-editor-pane.info-plist",
+				"com.apple.target-editor-pane.info-plist.simple",
+				"com.apple.target-editor-pane.buildphases",
+			);
+			TOCViewMasterVisibleRect = "{{0, 0}, {270, 394}}";
+			TOCViewSelectedItems = (
+				PBXTargetSummarySettingsModule,
+			);
+		};
+	};
+	FA95580E0BEA3D7B006F6AE9 /* PBXTargetBookmark */ = {
+		isa = PBXTargetBookmark;
+		trg = FA9557E90BEA3CF4006F6AE9 /* nosleep deploy */;
+		uiCtxt = {
+			TOCViewDetailVisibleRect = "{{0, 1508}, {657, 482}}";
+			TOCViewExpandedItems = (
+				"com.apple.target-editor-pane.settings",
+				"com.apple.target-editor-pane.settings.simple",
+				"com.apple.target-editor-pane.info-plist",
+				"com.apple.target-editor-pane.info-plist.simple",
+				"com.apple.target-editor-pane.buildphases",
+			);
+			TOCViewMasterVisibleRect = "{{0, 0}, {257, 482}}";
+			TOCViewSelectedItems = (
+				"com.apple.target-editor-pane.settings",
+			);
+		};
+	};
+	FA9558600BEA41E7006F6AE9 /* nosleep (Upgraded) */ = {
+		activeExec = 0;
+	};
+	FA9558760BEA424C006F6AE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* Insomnia.cpp */;
+		name = "Insomnia.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 663;
+		vrLoc = 1180;
+	};
+	FA95587A0BEA4298006F6AE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* Insomnia.cpp */;
+		name = "Insomnia.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 663;
+		vrLoc = 1180;
+	};
+	FA95587B0BEA42A9006F6AE9 /* nosleep FINAL */ = {
+		activeExec = 0;
+	};
+	FA95588F0BEA430D006F6AE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* Insomnia.cpp */;
+		name = "Insomnia.cpp: 42";
+		rLen = 0;
+		rLoc = 1342;
+		rType = 0;
+		vrLen = 722;
+		vrLoc = 970;
+	};
+	FA9558910BEA436F006F6AE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* Insomnia.cpp */;
+		name = "Insomnia.cpp: 42";
+		rLen = 0;
+		rLoc = 1342;
+		rType = 0;
+		vrLen = 722;
+		vrLoc = 970;
+	};
+	FA9558930BEA43DD006F6AE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* Insomnia.cpp */;
+		name = "Insomnia.cpp: 37";
+		rLen = 0;
+		rLoc = 1252;
+		rType = 0;
+		vrLen = 668;
+		vrLoc = 883;
+	};
+	FA95589F0BEA4545006F6AE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* Insomnia.cpp */;
+		name = "Insomnia.cpp: getWorkLoop";
+		rLen = 0;
+		rLoc = 2405;
+		rType = 0;
+		vrLen = 711;
+		vrLoc = 1987;
+	};
+	FA9558A00BEA4545006F6AE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* Insomnia.h */;
+		name = "Insomnia.h: _workLoop";
+		rLen = 0;
+		rLoc = 1532;
+		rType = 0;
+		vrLen = 869;
+		vrLoc = 698;
+	};
+	FA9558A10BEA4545006F6AE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* Insomnia.cpp */;
+		name = "Insomnia.cpp: 90";
+		rLen = 0;
+		rLoc = 2381;
+		rType = 0;
+		vrLen = 773;
+		vrLoc = 1880;
+	};
+	FA9558A20BEA4545006F6AE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* Insomnia.h */;
+		name = "Insomnia.h: _workLoop";
+		rLen = 0;
+		rLoc = 1534;
+		rType = 0;
+		vrLen = 871;
+		vrLoc = 698;
+	};
+	FA9558A30BEA4545006F6AE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* Insomnia.cpp */;
+		name = "Insomnia.cpp: 90";
+		rLen = 0;
+		rLoc = 2381;
+		rType = 0;
+		vrLen = 689;
+		vrLoc = 1981;
+	};
+	FA9558A40BEA4545006F6AE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* Insomnia.h */;
+		name = "Insomnia.h: _workLoop";
+		rLen = 0;
+		rLoc = 1532;
+		rType = 0;
+		vrLen = 869;
+		vrLoc = 698;
+	};
+	FA9558A50BEA4545006F6AE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* Insomnia.cpp */;
+		name = "Insomnia.cpp: getWorkLoop";
+		rLen = 0;
+		rLoc = 2405;
+		rType = 0;
+		vrLen = 711;
+		vrLoc = 1987;
+	};
+	FA9558A60BEA4545006F6AE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* Insomnia.h */;
+		name = "Insomnia.h: getWorkLoop";
+		rLen = 0;
+		rLoc = 1372;
+		rType = 0;
+		vrLen = 867;
+		vrLoc = 698;
+	};
+	FA9558A90BEA45A6006F6AE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* Insomnia.h */;
+		name = "Insomnia.h: 24";
+		rLen = 0;
+		rLoc = 968;
+		rType = 0;
+		vrLen = 867;
+		vrLoc = 698;
+	};
+	FA9558AA0BEA45A6006F6AE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* Insomnia.cpp */;
+		name = "Insomnia.cpp: getWorkLoop";
+		rLen = 0;
+		rLoc = 2405;
+		rType = 0;
+		vrLen = 706;
+		vrLoc = 1992;
+	};
+	FA9558AB0BEA45A6006F6AE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* Insomnia.h */;
+		name = "Insomnia.h: 24";
+		rLen = 0;
+		rLoc = 968;
+		rType = 0;
+		vrLen = 867;
+		vrLoc = 698;
+	};
+	FA9558AC0BEA45A6006F6AE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* Insomnia.cpp */;
+		name = "Insomnia.cpp: getWorkLoop";
+		rLen = 0;
+		rLoc = 2405;
+		rType = 0;
+		vrLen = 738;
+		vrLoc = 2033;
+	};
+}

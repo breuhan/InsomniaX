@@ -1,0 +1,64 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {startListening = id; stopListening = id; }; 
+            CLASS = AppleRemote; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {delegate = id; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            ACTIONS = {
+                aboutItem = id; 
+                acItem = id; 
+                battItem = id; 
+                defaultItem = id; 
+                enableBeta = id; 
+                hibernateItem = id; 
+                hotkeyItem = id; 
+                hotkeyOK = id; 
+                insomnia = id; 
+                loadOnStartItem = id; 
+                openConsole = id; 
+                quitInsomniaX = id; 
+                readmeItem = id; 
+                sleepDisplay = id; 
+                sleepSystem = id; 
+                soundItem = id; 
+            }; 
+            CLASS = ButtonController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                acItem = NSMenuItem; 
+                battItem = NSMenuItem; 
+                betaUpdate = NSMenuItem; 
+                hibernateItem = NSMenuItem; 
+                hotkeyItem = NSMenuItem; 
+                hotkeyPanel = NSPanel; 
+                loadOnStartItem = NSMenuItem; 
+                shortcutRecorder = ShortcutRecorder; 
+                statusInsomniaItem = NSMenuItem; 
+                statusMenu = NSMenu; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = MVKeyChain; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = MyWindow; LANGUAGE = ObjC; SUPERCLASS = NSWindow; }, 
+        {CLASS = NSObject; LANGUAGE = ObjC; }, 
+        {
+            ACTIONS = {checkForUpdates = id; closeProfileInfoSheet = id; }; 
+            CLASS = SUUpdater; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                checkForUpdatesText = NSTextField; 
+                delegate = id; 
+                profileMoreInfoButton = NSButton; 
+                profileMoreInfoView = NSView; 
+                profileMoreInfoWindow = NSWindow; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}

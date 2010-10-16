@@ -1,0 +1,66 @@
+CHANGE LOG:
+
+Version 1.3.1
+Fixed Load on AC
+
+Version 1.3
+Added Hibernation Hack (Please read readme warnings)
+Added Menu item to sleep machine
+Added Menu item to sleep display
+Added Help menu item (Opens readme file)
+Added option to only load on battery
+Added option to only load on ac power
+Added beta update option
+Added readme item
+AuthTool now gives much better feedback
+Insomnia state is set instantly now
+Apple Remote support has been revamped (Only patches the Sleep button now)
+General Optimisations
+
+Version 1.2
+Rewrite of core systems
+Legacy code removed
+Insomnia Updated (Intel fully supported)
+General clean up in menus
+Insomnia kexts are now stored outside of InsomniaX (Update bug)
+
+Version 1.1
+Added Hotkey
+Added latest Intel work around
+Cleaned some code
+Output from load/unload now fed into log file (Use Console to read)
+
+Version 1.0
+Completely rewrote InsomniaX
+Added Apple Remote
+Added Sounds
+Added Keychain support
+Removed Jiggler (Will come back in later version)
+
+Version 0.5
+Removed Sparkle
+Removed Unload Timer
+Updated Insomnia
+
+Version 0.4
+Added Intel support
+Added unload timer
+Added key binds for menu items
+Added sound effects
+
+Version 0.3
+
+Added Update System
+Added Prefrence page
+Fixed Jiggler Daemon
+
+Version 0.2
+
+Added Built in Jiggle daemon (Experimental)
+Added Cleaner graphics
+Added Status Icons
+Added log viewer for debug
+Added Help file
+Fixed Terms and Conditions no longer presented every start
+
+Version 0.1b -- Inital Release

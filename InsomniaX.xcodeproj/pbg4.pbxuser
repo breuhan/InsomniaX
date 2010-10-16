@@ -1,0 +1,240 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 3857B42D0C424392004E6A46 /* InsomniaX */;
+		activeTarget = 8D1107260486CEB800E47090 /* InsomniaX */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* InsomniaX */,
+		);
+		breakpointsGroup = 3857B4690C424758004E6A46 /* XCBreakpointsBucket */;
+		codeSenseManager = 3857B4420C4243AB004E6A46 /* Code sense */;
+		executables = (
+			3857B42D0C424392004E6A46 /* InsomniaX */,
+			3857B42E0C424392004E6A46 /* loader */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					655,
+					45.2085,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					510,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					330,
+					20,
+					48.1626,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 205669266;
+			PBXWorkspaceStateSaveDate = 205669266;
+		};
+		perUserProjectItems = {
+			3857B4780C424856004E6A46 /* PBXTextBookmark */ = 3857B4780C424856004E6A46 /* PBXTextBookmark */;
+			3857B4920C42496F004E6A46 /* PBXBookmark */ = 3857B4920C42496F004E6A46 /* PBXBookmark */;
+			3857B4C40C424C18004E6A46 /* PBXTextBookmark */ = 3857B4C40C424C18004E6A46 /* PBXTextBookmark */;
+			3857B4C50C424C18004E6A46 /* PBXTextBookmark */ = 3857B4C50C424C18004E6A46 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3857B4410C4243AB004E6A46 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3857B42D0C424392004E6A46 /* InsomniaX */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = InsomniaX;
+		sourceDirectories = (
+		);
+	};
+	3857B42E0C424392004E6A46 /* loader */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = loader;
+		sourceDirectories = (
+		);
+	};
+	3857B4410C4243AB004E6A46 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	3857B4420C4243AB004E6A46 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3857B4570C4245B9004E6A46 /* NSApplicationPlus.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1265, 1010}}";
+			sepNavSelRange = "{322, 0}";
+			sepNavVisRect = "{{0, 0}, {1265, 1010}}";
+		};
+	};
+	3857B4580C4245B9004E6A46 /* NSApplicationPlus.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1265, 1010}}";
+			sepNavSelRange = "{671, 0}";
+			sepNavVisRect = "{{0, 0}, {1265, 1010}}";
+			sepNavWindowFrame = "{{-1544, -1129}, {1310, 1139}}";
+		};
+	};
+	3857B4690C424758004E6A46 /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "Project Breakpoints";
+		objects = (
+		);
+	};
+	3857B4770C424856004E6A46 /* NSApplicationPlus.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSApplicationPlus.h;
+		path = "/Users/pbg4/Documents/DEV/Andrew/InsomniaX07-2007/1.2.1/NSApplicationPlus.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1265, 1010}}";
+			sepNavSelRange = "{322, 0}";
+			sepNavVisRect = "{{0, 0}, {1265, 1010}}";
+			sepNavWindowFrame = "{{-1487, -924}, {1310, 1139}}";
+		};
+	};
+	3857B4780C424856004E6A46 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3857B4770C424856004E6A46 /* NSApplicationPlus.h */;
+		rLen = 1;
+		rLoc = 13;
+		rType = 1;
+	};
+	3857B4920C42496F004E6A46 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3857B4580C4245B9004E6A46 /* NSApplicationPlus.m */;
+	};
+	3857B4C40C424C18004E6A46 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3857B4580C4245B9004E6A46 /* NSApplicationPlus.m */;
+		name = "NSApplicationPlus.m: 34";
+		rLen = 0;
+		rLoc = 671;
+		rType = 0;
+		vrLen = 1216;
+		vrLoc = 0;
+	};
+	3857B4C50C424C18004E6A46 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3857B4570C4245B9004E6A46 /* NSApplicationPlus.h */;
+		name = "NSApplicationPlus.h: 14";
+		rLen = 0;
+		rLoc = 322;
+		rType = 0;
+		vrLen = 464;
+		vrLoc = 0;
+	};
+	8D1107260486CEB800E47090 /* InsomniaX */ = {
+		activeExec = 0;
+		executables = (
+			3857B42D0C424392004E6A46 /* InsomniaX */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1220, 631}}";
+			sepNavSelRange = "{937, 0}";
+			sepNavVisRect = "{{0, 0}, {1220, 631}}";
+			sepNavWindowFrame = "{{38, 92}, {1265, 760}}";
+		};
+	};
+	9E3A1B180B5E324E0006A37F /* ButtonController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1400, 8568}}";
+			sepNavSelRange = "{18347, 0}";
+			sepNavVisRect = "{{0, 7530}, {1265, 1010}}";
+			sepNavWindowFrame = "{{-1513, -300}, {1310, 1139}}";
+		};
+	};
+	9EC3F4C00BEC64B600F13084 /* loader */ = {
+		activeExec = 0;
+		executables = (
+			3857B42E0C424392004E6A46 /* loader */,
+		);
+	};
+}

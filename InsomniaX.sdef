@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "file://localhost/System/Library/DTDs/sdef.dtd">
+<dictionary title="InsomniaX">
+	<suite name="InsomniaX Suite" code="IXAS" description="InsomniaX commands.">
+		<command name="load" code="LoIX" description="Loads Insomnia">
+			<cocoa class="LoadInsomniaCommand"/>
+		</command>
+		<command name="unload" code="UlIX" description="Unloads Insomnia">
+			<cocoa class="UnLoadInsomniaCommand"/>
+		</command>
+	</suite>
+</dictionary>
